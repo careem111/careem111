@@ -9,6 +9,5 @@ I'm an DevOps Engineer who passionate about automation and problem solving.
     💬 Ask me about DevOps/Cloud/Infrastructure, Career Guidence ...
     📫 How to reach me: krm.mrt@gmail.com
     ⚡ Fun fact: I love 🌄 Travelling and Sharing knowledge..
-    🌱 I’m currently learning FastApi ...
 
 -- Hibathul Careem --
